@@ -5,7 +5,7 @@
     <img alt="Email" src="https://img.shields.io/badge/Email-leticia.balbi@icomp.com.ufam.edu.br-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-### About me
+#### About me
   💻 Computer Science student <br>
   📚 Researcher <br>
   🔮 Interested in Machine Learning, Deep Learning and Data Science <br>
