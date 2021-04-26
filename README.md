@@ -6,9 +6,9 @@
 </p>
 
 ### ❓ About me
-      💻 Computer Science student <br>
-      📚 Researcher <br>
-      🔮 Interested in Machine Learning, Deep Learning and Data Science <br>
+      💻 Computer Science student 
+      📚 Researcher 
+      🔮 Interested in Machine Learning, Deep Learning and Data Science 
       🌱 Lifelong learning
   
   
