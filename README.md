@@ -22,10 +22,10 @@
 <code><a href="https://seaborn.pydata.org/" target="_blank"><img height="40" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"></a></code>
 <code><a href="https://www.java.com/pt-BR/download/help/index.html" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a></code>
 
-### 🌱 I am currently learning
+### 🌱 I'm currently learning
 <code><a href="https://powerbi.microsoft.com/pt-br/" target="_blank"><img height="45" src="https://lsxconsulting.com/wp-content/uploads/2020/07/160.jpg"></a></code>
 <code><a href="https://www.r-project.org/about.html" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png"></a></code>
-<code><a href="https://www.nltk.org/" target="_blank"><img height="40" src="https://miro.medium.com/max/592/0*zKRz1UgqpOZ4bvuA"></a></code>
+<code><a href="https://www.nltk.org/" target="_blank"><img height="45" src="https://miro.medium.com/max/592/0*zKRz1UgqpOZ4bvuA"></a></code>
 
 <table width="100%">
   <tr>
