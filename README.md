@@ -6,8 +6,8 @@
 </p>
 
 ### ❓ About me
-      💻 Computer Science student 
-      📚 Researcher 
+      📉 Machine Learning Engineer
+      💻 BS in Computer Science
       🔮 Interested in Machine Learning, Deep Learning and Data Science 
       🌱 Lifelong learning
       
